@@ -21,7 +21,8 @@
 
 ## Different Services
 - Flight and Search Service : https://github.com/surazkarn/Flights-and-Search-Services-of-Airline-Backend-System
-- Authentication Service : 
+- Authentication Service :
+ https://github.com/surazkarn/Auth-Service-for-Airline-Management-System
 - Booking Service :
 - Reminder Service : https://github.com/surazkarn/ReminderService
 
